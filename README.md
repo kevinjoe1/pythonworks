@@ -17,3 +17,23 @@ I’m currently on **Day 20**, and this repo will continue to grow as I practice
 ## 🔧 Tech Stack
 - **Language:** Python 3  
 - **Libraries Used:** Mostly built-in modules (`random`, `os`, etc.) so far.
+
+## 📖 How to Run
+- Download or clone this repo.  
+- Open the folder for the project/day you want to try.  
+- Run the Python file with:  
+  ```bash
+  python filename.py
+
+
+🧑‍💻 About Me
+
+Hi, I’m Kevin Johnson 👋 –This repository reflects my journey in mastering Python step by step.
+
+🌟 Contributing
+
+This is a personal learning repo, but feedback and suggestions are always welcome!🤗
+
+
+⭐ Stay tuned as I update this repo with new projects daily!
+  
